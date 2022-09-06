@@ -1,2 +1,2 @@
 #!/bin/bash
-/action=~/opt/bin:$/action
+export /action=~/opt/bin:$/action
