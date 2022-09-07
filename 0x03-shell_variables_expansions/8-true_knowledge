@@ -1,2 +1,2 @@
 #!/bin/bash
-$(( 128 + ($TRUEKNOWLEDG)E))
+$(( 128 + ($TRUEKNOWLEDGE)))
